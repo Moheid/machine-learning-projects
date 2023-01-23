@@ -1,6 +1,7 @@
 # Machine Learning Project 
 
 In this repo, I will elobrate machine learning concepts, types, and much. This will be a reference for the community and myself.  The interest of machine learning is become a global appeal need. For that, we will collect the bring up here the most import contents in machine learning domain.
+![ml-img](https://user-images.githubusercontent.com/30018417/214000679-1411390c-cc75-4b60-a43d-6e0f89d78162.jpeg)
 
 ## A guide to the types of machine learning algorithms and their applications
 
