@@ -89,3 +89,5 @@ There are various types of regressions which are used in data science and machin
 - Random Forest Regression
 - Ridge Regression
 - Lasso Regression:
+
+![types-of-regression](https://user-images.githubusercontent.com/30018417/215119369-44b110ed-6fec-4269-b8f3-3407e6b61015.png)
