@@ -81,12 +81,12 @@ As mentioned above, Regression analysis helps in the prediction of a continuous 
 ## Types of Regression
 There are various types of regressions which are used in data science and machine learning. Each type has its own importance on different scenarios, but at the core, all the regression methods analyze the effect of the independent variable on dependent variables. Here we are discussing some important types of regression which are given below:
 
-- **Linear Regression*
-- **Logistic Regression
-- Polynomial Regression
-- Support Vector Regression
-- Decision Tree Regression
-- **Random Forest Regression
+- **Linear Regression**
+- **Logistic Regression**
+- **Polynomial Regression**
+- **Support Vector Regression**
+- **Decision Tree Regression**
+- **Random Forest Regression**
 - **Ridge Regression**
 - **Lasso Regression:**
 
